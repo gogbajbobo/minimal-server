@@ -128,3 +128,4 @@ dist
 
 #WebStorm files
 .idea/
+.DS_Store
